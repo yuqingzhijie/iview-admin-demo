@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Vue 2.0 admin management system based on iview-admin",
   "author": "yuqingzhijie",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --open --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
