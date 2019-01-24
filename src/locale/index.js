@@ -3,9 +3,9 @@ import VueI18n from 'vue-i18n'
 import customZhCn from './lang/zh-CN'
 import customZhTw from './lang/zh-TW'
 import customEnUs from './lang/en-US'
-import zhCnLocale from 'iview/dist/locale/lang/zh-CN'
-import enUsLocale from 'iview/dist/locale/lang/en-US'
-import zhTwLocale from 'iview/dist/locale/lang/zh-TW'
+import zhCnLocale from 'iview/dist/locale/zh-CN'
+import enUsLocale from 'iview/dist/locale/en-US'
+import zhTwLocale from 'iview/dist/locale/zh-TW'
 
 Vue.use(VueI18n)
 
